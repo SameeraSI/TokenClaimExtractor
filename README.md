@@ -88,7 +88,9 @@ To enable detailed logs for this mediator, add the following to your `log4j2.pro
 logger.custom-mediator-log.name = org.example.wso2
 logger.custom-mediator-log.level = DEBUG
 ```
-
+```properties
+loggers = custom-mediator-log,.......
+```
 ---
 
 ## Customization
