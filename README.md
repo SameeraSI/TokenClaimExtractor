@@ -1,4 +1,3 @@
-```markdown
 # WSO2 Custom Mediator - Token Claim Extractor
 
 This project provides a custom WSO2 Synapse mediator that extracts a specific claim (`client_id`) from JWT token claims and sets it as a message context property for downstream processing.
